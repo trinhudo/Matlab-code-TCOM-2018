@@ -1,7 +1,7 @@
 ## Paper
 T. N. Do, D. B. da Costa, T. Q. Duong, and B. An, “Improving the Performance of Cell-Edge Users in NOMA Systems Using Cooperative Relaying,” IEEE Transactions on Communications, vol. 66, no. 5, pp. 1883–1901, May 2018.
 
-| [IEEExplore](https://ieeexplore.ieee.org/document/8267052) | [pdf]() |
+| [IEEExplore](https://ieeexplore.ieee.org/document/8267052) | [pdf](https://www.researchgate.net/publication/322671766_Improving_the_Performance_of_Cell-Edge_Users_in_NOMA_Systems_Using_Cooperative_Relaying) |
 
 ## BibTeX
 ```
