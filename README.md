@@ -17,6 +17,3 @@ doi={10.1109/TCOMM.2018.2796611},
 ISSN={0090-6778}, 
 month={May},}
 ```
-## Wishes
-If you find any error in the code, please let me know via email ```dotrinhu@gmail.com```, we will fix it together. 
-If you think the code is useful, please cite the paper. Thank you.
